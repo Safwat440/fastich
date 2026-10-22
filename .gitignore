@@ -1,0 +1,20 @@
+﻿# Local Claude configuration
+.claude/
+
+# Project archive
+fastich-site.zip
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+service-account*.json
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/

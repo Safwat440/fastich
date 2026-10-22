@@ -1,0 +1,92 @@
+[  
+   {  
+      "name":"John Barker",
+      "position":"Accountant",
+      "pic":"https://via.placeholder.com/250x250",
+      "email":"jbaker@POS.io"
+   },
+   {  
+      "name":"Terry Daniels",
+      "position":"Support",
+      "pic":"https://via.placeholder.com/250x250",
+      "email":"tdaniels@POS.io"
+   },
+   {  
+      "name":"Michelle Farlane",
+      "position":"Sales",
+      "pic":"https://via.placeholder.com/250x250",
+      "email":"mfarlane@POS.io"
+   },
+   {  
+      "name":"Stephany Huds",
+      "position":"Sales",
+      "pic":"https://via.placeholder.com/250x250",
+      "email":"shuds@POS.io"
+   },
+   {  
+      "name":"Mike Johnson",
+      "position":"CTO",
+      "pic":"https://via.placeholder.com/250x250",
+      "email":"mjohnson@POS.io"
+   },
+   {  
+      "name":"Alan Kovalsky",
+      "position":"CEO",
+      "pic":"https://via.placeholder.com/250x250",
+      "email":"akovalsky@POS.io"
+   },
+   {  
+      "name":"Anna Korsk",
+      "position":"Support",
+      "pic":"https://via.placeholder.com/250x250",
+      "email":"akorsk@POS.io"
+   },
+   {  
+      "name":"July Lawels",
+      "position":"Marketing",
+      "pic":"https://via.placeholder.com/250x250",
+      "email":"jlawels@POS.io"
+   },
+   {  
+      "name":"Jake Markie",
+      "position":"CFO",
+      "pic":"https://via.placeholder.com/250x250",
+      "email":"jmarkie@POS.io"
+   },
+   {  
+      "name":"Kareem Jabbar",
+      "position":"Support",
+      "pic":"https://via.placeholder.com/250x250",
+      "email":"kjabbar@POS.io"
+   },
+   {  
+      "name":"Helen Miller",
+      "position":"Sales",
+      "pic":"https://via.placeholder.com/250x250",
+      "email":"hmiller@POS.io"
+   },
+   {  
+      "name":"Judith Nate",
+      "position":"Marketing",
+      "pic":"https://via.placeholder.com/250x250",
+      "email":"jnate@POS.io"
+   },
+   {  
+      "name":"Nathan O' Reilly",
+      "position":"Support",
+      "pic":"https://via.placeholder.com/250x250",
+      "email":"noreilly@POS.io"
+   },
+   {  
+      "name":"Samantha Rogers",
+      "position":"Sales rep",
+      "pic":"https://via.placeholder.com/250x250",
+      "email":"srogers@POS.io"
+   },
+   {  
+      "name":"Kevin Smith",
+      "position":"Marketing",
+      "pic":"https://via.placeholder.com/250x250",
+      "email":"ksmith@POS.io"
+   }
+]

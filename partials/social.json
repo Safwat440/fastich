@@ -1,0 +1,9 @@
+{
+  "_comment": "Social links rendered in the top line and footer by tools/build.js. These are generic platform homepages by request (not Fastich accounts); replace each url with the Fastich profile once it exists.",
+  "links": [
+    { "network": "facebook", "label": "Facebook", "icon": "fa-facebook-f", "url": "https://www.facebook.com/" },
+    { "network": "x", "label": "X", "icon": "fa-x-twitter", "url": "https://x.com/" },
+    { "network": "instagram", "label": "Instagram", "icon": "fa-instagram", "url": "https://www.instagram.com/" },
+    { "network": "linkedin", "label": "LinkedIn", "icon": "fa-linkedin-in", "url": "https://www.linkedin.com/" }
+  ]
+}
